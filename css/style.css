@@ -1,0 +1,23 @@
+
+
+body {
+    background-color: #fff;
+    color: #000;
+    text-align: justify;
+    font-family: Arial, sans-serif, Helvetica;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+div {
+    padding: 1em;
+}
+
+#dice {
+    width: 100px;
+    height: 100px;
+    cursor: pointer;
+}
